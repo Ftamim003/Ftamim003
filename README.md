@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently working on hotel management system<br>🎯 Goals: Become a senior web developer by 20205<br>🎲 Fun fact: I like to sleep</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently working on tourism management system<br>🎯 Goals: Become a senior web developer by 20205<br>🎲 Fun fact: I like to sleep</p>
 
 ###
 
